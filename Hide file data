@@ -1,0 +1,3 @@
+.counters-block .counter-desc {
+	visibility: hidden;
+}
